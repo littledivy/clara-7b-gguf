@@ -1,4 +1,4 @@
-Provides the CLaRa-7B-Instruct model as GGUF
+Provides Apple's CLaRa-7B-Instruct model as GGUF. See https://github.com/apple/ml-clara/
 
 - `clara-7b-f16.gguf` (full precision)
 - `clara-7b-Q4_K_M.gguf` (quantized)

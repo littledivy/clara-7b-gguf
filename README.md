@@ -6,6 +6,7 @@ Provides Apple's CLaRa-7B-Instruct model as GGUF. See https://github.com/apple/m
 Quick start with Ollama https://ollama.com/divy/clara-7b-Q4_K_M:
 ```
 $ ollama run divy/clara-7b-Q4_K_M
+
 > Given the query "investigate why latency spiked" and these documents:
 > [1] {
 >   "id": "latency-debug",
